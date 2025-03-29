@@ -11,6 +11,7 @@ We are making cool stuff
   <img src="sgpgposes.png" alt="saygexpaygorn"><br>
 </p>
 
+---
 
 - **[bth123](https://github.com/bth123)** - the most pizdatiy - guy of the team, genius, playboy, feelantrope
 
