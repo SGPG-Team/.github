@@ -19,6 +19,8 @@ We are making cool stuff
 
 - **[trpplvn](https://github.com/trpplvn)**
 
+- **[linus](https://github.com/torvalds)**
+
 - **[NecRoZ](https://github.com/NecRoZ2)**
 
 - **[ryyybaa](https://github.com/ryyybaaa)**
