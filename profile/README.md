@@ -26,4 +26,4 @@ We are making cool stuff
 - **[ryyybaa](https://github.com/ryyybaaa)**
 
 
-    <h6><a href="https://github.com/trippflattMC">supersmile123</a></h6>
+    <h6><a href="https://github.com/trippflattMC">supersmile123 pidor</a></h6>
