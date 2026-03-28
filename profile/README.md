@@ -13,7 +13,7 @@ We are making cool stuff
 
 ---
 
-- **[TrippFlatt](https://github.com/trippflattMC)**
+- **[TrippFlatt](https://github.com/trippflatt)**
 
 - **[bth123](https://github.com/bth123)**
 
@@ -24,6 +24,3 @@ We are making cool stuff
 - **[NecRoZ](https://github.com/NecRoZ2)**
 
 - **[ryyybaa](https://github.com/ryyybaaa)**
-
-
-    <h6><a href="https://github.com/trippflattMC">thunder (temporary)</a></h6>
