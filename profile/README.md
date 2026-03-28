@@ -19,8 +19,12 @@ We are making cool stuff
 
 - **[trpplvn](https://github.com/trpplvn)**
 
-- **[linus](https://github.com/torvalds)**
+- **[linus](https://github.com/Falanta)**
 
 - **[NecRoZ](https://github.com/NecRoZ2)**
 
 - **[ryyybaa](https://github.com/ryyybaaa)**
+
+- **[DasDiamond58](https://github.com/DasDiamond)**
+
+<h6><a href="https://github.com/SuperSmile123">уродец</a></h6>
